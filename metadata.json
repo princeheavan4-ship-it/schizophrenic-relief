@@ -1,0 +1,6 @@
+{
+  "name": "Schizophrenia Support Tracker",
+  "description": "A calming, private app for tracking symptoms, mood journeys, and medication adherence with interactive reports and secure clinician export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
